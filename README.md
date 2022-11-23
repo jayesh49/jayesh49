@@ -21,18 +21,16 @@ Here are some ideas to get you started:
 <!-- ![](https://komarev.com/ghpvc/?username=jayesh49&color=green&style=for-the-badge) -->
 
 Data is today's fuel. The sheer power of data drove me to initiate my journey into the mysterious world of Data Science.
-
-Like many others, my initial interest lay in Java programming, I was fascinated by building logic for simple programming problems. I realized my passion upon switching to Data analytics.
 Data Science has been my major point of interest for a year now, and my zest lies majorly in Machine Learning. I find it easy to code in Python, but I never limit myself to learning Python just for Data science.
-I am currently in the 7th semester of my B. Tech. degree in Artificial Intelligence(AI).
+I am currently in the 7th semester of my B. Tech. degree in Electronics And Communication.
 
 - 🔭 I’m currently working on Data Science & Machine Learning.
 
-- 🌱 I’m currently learning Data Science,AWS,Data Engineering
+- 🌱 I’m currently learning Data Science,AWS,Python
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles
 
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source
+- 💬 Talk to me about Python, Freelancing Opportunites, Open Source
 
 - 😄 Words that describe me - Self-motivated, Focused, Hardworking & curious.
 
