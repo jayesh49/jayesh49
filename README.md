@@ -20,17 +20,19 @@ Here are some ideas to get you started:
 
 <!-- ![](https://komarev.com/ghpvc/?username=jayesh49&color=green&style=for-the-badge) -->
 
-Data is today's fuel. The sheer power of data drove me to initiate my journey into the mysterious world of Data Science.
-Data Science has been my major point of interest for a year now, and my zest lies majorly in Machine Learning. I find it easy to code in Python, but I never limit myself to learning Python just for Data science.
-I am currently in the 7th semester of my B. Tech. degree in Electronics And Communication.
+Data is today's fuel. The sheer power of data drove me to initiate my journey into the mysterious world of Data Science and AI.
+Data Science has been my major point of interest for a year now, and my zest lies majorly in Machine Learning and Computer Vision. I find it easy to code in Python, but I never limit myself to learning Python just for Data science.
+I have Completed my B. Tech. degree in Electronics And Communication.
+I support opensource community , i write techie blogs on Medium.
+Currently Working in GeeksforGeeks as an R&D (Datascience and Linux)
 
 - 🔭 I’m currently working on Data Science & Machine Learning.
 
-- 🌱 I’m currently learning Data Science,AWS,Python
+- 🌱 I’m currently learning Data Science,AWS,Python,LLMs,NLP,Computer Vision
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles
 
-- 💬 Talk to me about Python, Freelancing Opportunites, Open Source
+- 💬 Talk to me about Python, Freelancing Opportunites, Open Source , new tech
 
 - 😄 Words that describe me - Self-motivated, Focused, Hardworking & curious.
 
@@ -54,9 +56,9 @@ I am currently in the 7th semester of my B. Tech. degree in Electronics And Comm
 <img src="https://user-images.githubusercontent.com/74089340/185174329-98c9ec72-ced7-4f71-9d00-c171a03b5aa5.png" width="" height="48">
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'www.linkedin.com/in/jayesh-kumar-jangir-9b0a341a6'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-<a href = 'https://github.com/jayesh49'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>
-<a href = 'https://github.com/jayesh49'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = 'https://www.linkedin.com/in/jayesh-ai/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a><br>
+<a href = 'https://medium.com/@jayeshkumarjangir49'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a><br>
+<a href = 'https://github.com/jayesh49'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a><br>
 
 <br>
 <br>
